@@ -1,0 +1,142 @@
+Database,database_name,Year,Month,Country,Hits
+adc,Ag Data Commons,2019,3,United States,365937
+adc,Ag Data Commons,2019,3,France,191053
+adc,Ag Data Commons,2019,3,China,30515
+adc,Ag Data Commons,2019,3,India,26875
+adc,Ag Data Commons,2019,3,Canada,18728
+adc,Ag Data Commons,2019,3,Germany,15342
+adc,Ag Data Commons,2019,3,United Kingdom,14126
+adc,Ag Data Commons,2019,3,Australia,8747
+adc,Ag Data Commons,2019,3,Brazil,8101
+adc,Ag Data Commons,2019,3,Mexico,6021
+adc,Ag Data Commons,2019,4,United States,451652
+adc,Ag Data Commons,2019,4,France,135092
+adc,Ag Data Commons,2019,4,China,27487
+adc,Ag Data Commons,2019,4,India,24803
+adc,Ag Data Commons,2019,4,Canada,18670
+adc,Ag Data Commons,2019,4,Germany,12627
+adc,Ag Data Commons,2019,4,United Kingdom,12000
+adc,Ag Data Commons,2019,4,Australia,8897
+adc,Ag Data Commons,2019,4,Russia,7030
+adc,Ag Data Commons,2019,4,Brazil,6306
+adc,Ag Data Commons,2019,5,United States,177051
+adc,Ag Data Commons,2019,5,France,81860
+adc,Ag Data Commons,2019,5,China,11577
+adc,Ag Data Commons,2019,5,India,10043
+adc,Ag Data Commons,2019,5,Canada,8862
+adc,Ag Data Commons,2019,5,United Kingdom,5921
+adc,Ag Data Commons,2019,5,Germany,4569
+adc,Ag Data Commons,2019,5,Australia,4322
+adc,Ag Data Commons,2019,5,Japan,3896
+adc,Ag Data Commons,2019,5,Brazil,3483
+fdc,FoodData Central,2019,3,United States,158782
+fdc,FoodData Central,2019,4,United States,1405887
+fdc,FoodData Central,2019,4,Canada,100643
+fdc,FoodData Central,2019,4,United Kingdom,80885
+fdc,FoodData Central,2019,4,Australia,44612
+fdc,FoodData Central,2019,4,India,39399
+fdc,FoodData Central,2019,4,Germany,26109
+fdc,FoodData Central,2019,4,Mexico,23773
+fdc,FoodData Central,2019,4,Brazil,18037
+fdc,FoodData Central,2019,4,Russia,17829
+fdc,FoodData Central,2019,4,Spain,16684
+fdc,FoodData Central,2019,5,United States,1541995
+fdc,FoodData Central,2019,5,Poland,699509
+fdc,FoodData Central,2019,5,Canada,121376
+fdc,FoodData Central,2019,5,United Kingdom,105037
+fdc,FoodData Central,2019,5,Australia,59175
+fdc,FoodData Central,2019,5,India,44738
+fdc,FoodData Central,2019,5,Mexico,32436
+fdc,FoodData Central,2019,5,Germany,29964
+fdc,FoodData Central,2019,5,Russia,19246
+fdc,FoodData Central,2019,5,Brazil,18998
+lca,LCA Commons,2019,3,United States,132741
+lca,LCA Commons,2019,3,Canada,18447
+lca,LCA Commons,2019,3,Mexico,12472
+lca,LCA Commons,2019,3,China,4539
+lca,LCA Commons,2019,3,United Kingdom,3978
+lca,LCA Commons,2019,3,Germany,3231
+lca,LCA Commons,2019,3,France,2839
+lca,LCA Commons,2019,3,Republic of Korea,1997
+lca,LCA Commons,2019,3,Japan,1959
+lca,LCA Commons,2019,3,Sweden,1688
+lca,LCA Commons,2019,4,United States,108199
+lca,LCA Commons,2019,4,Canada,6652
+lca,LCA Commons,2019,4,China,5070
+lca,LCA Commons,2019,4,Germany,2999
+lca,LCA Commons,2019,4,Mexico,2274
+lca,LCA Commons,2019,4,Japan,2168
+lca,LCA Commons,2019,4,United Kingdom,2141
+lca,LCA Commons,2019,4,Republic of Korea,2049
+lca,LCA Commons,2019,4,Australia,1991
+lca,LCA Commons,2019,4,Brazil,1747
+lca,LCA Commons,2019,5,United States,93890
+lca,LCA Commons,2019,5,Germany,7595
+lca,LCA Commons,2019,5,China,5220
+lca,LCA Commons,2019,5,Australia,5093
+lca,LCA Commons,2019,5,Canada,4038
+lca,LCA Commons,2019,5,Republic of Korea,3577
+lca,LCA Commons,2019,5,Mexico,2479
+lca,LCA Commons,2019,5,Japan,2091
+lca,LCA Commons,2019,5,United Kingdom,2046
+lca,LCA Commons,2019,5,Spain,1899
+ndb,Nutrient Database,2019,3,United States,439208
+ndb,Nutrient Database,2019,3,Canada,19926
+ndb,Nutrient Database,2019,3,United Kingdom,4601
+ndb,Nutrient Database,2019,3,Mexico,3856
+ndb,Nutrient Database,2019,3,Brazil,3529
+ndb,Nutrient Database,2019,3,Australia,3506
+ndb,Nutrient Database,2019,3,Spain,2580
+ndb,Nutrient Database,2019,3,India,2341
+ndb,Nutrient Database,2019,3,Hong Kong,2234
+ndb,Nutrient Database,2019,3,Saudi Arabia,1919
+ndb,Nutrient Database,2019,4,United States,12088189
+ndb,Nutrient Database,2019,4,Canada,901950
+ndb,Nutrient Database,2019,4,Mexico,184540
+ndb,Nutrient Database,2019,4,United Kingdom,144084
+ndb,Nutrient Database,2019,4,India,121350
+ndb,Nutrient Database,2019,4,Spain,112406
+ndb,Nutrient Database,2019,4,Australia,101610
+ndb,Nutrient Database,2019,4,Brazil,97551
+ndb,Nutrient Database,2019,4,Chile,93030
+ndb,Nutrient Database,2019,4,China,78406
+ndb,Nutrient Database,2019,5,United States,14274188
+ndb,Nutrient Database,2019,5,Canada,516659
+ndb,Nutrient Database,2019,5,China,408703
+ndb,Nutrient Database,2019,5,Mexico,310141
+ndb,Nutrient Database,2019,5,United Kingdom,228247
+ndb,Nutrient Database,2019,5,Chile,227523
+ndb,Nutrient Database,2019,5,Brazil,206063
+ndb,Nutrient Database,2019,5,Spain,195898
+ndb,Nutrient Database,2019,5,India,195759
+ndb,Nutrient Database,2019,5,Uruguay,172977
+phytochem,Dr. Duke's Phytochemical,2019,3,United States,103638
+phytochem,Dr. Duke's Phytochemical,2019,3,France,56548
+phytochem,Dr. Duke's Phytochemical,2019,3,India,28798
+phytochem,Dr. Duke's Phytochemical,2019,3,Turkey,18142
+phytochem,Dr. Duke's Phytochemical,2019,3,Republic of Korea,12229
+phytochem,Dr. Duke's Phytochemical,2019,3,Indonesia,10676
+phytochem,Dr. Duke's Phytochemical,2019,3,Mexico,10032
+phytochem,Dr. Duke's Phytochemical,2019,3,Canada,8027
+phytochem,Dr. Duke's Phytochemical,2019,3,China,6527
+phytochem,Dr. Duke's Phytochemical,2019,3,Ireland,6268
+phytochem,Dr. Duke's Phytochemical,2019,4,Germany,102871
+phytochem,Dr. Duke's Phytochemical,2019,4,United States,93185
+phytochem,Dr. Duke's Phytochemical,2019,4,France,42391
+phytochem,Dr. Duke's Phytochemical,2019,4,India,26769
+phytochem,Dr. Duke's Phytochemical,2019,4,Turkey,16648
+phytochem,Dr. Duke's Phytochemical,2019,4,Vietnam,13745
+phytochem,Dr. Duke's Phytochemical,2019,4,Colombia,12147
+phytochem,Dr. Duke's Phytochemical,2019,4,China,8374
+phytochem,Dr. Duke's Phytochemical,2019,4,Philippines,7735
+phytochem,Dr. Duke's Phytochemical,2019,4,Canada,7146
+phytochem,Dr. Duke's Phytochemical,2019,5,United States,111768
+phytochem,Dr. Duke's Phytochemical,2019,5,France,25267
+phytochem,Dr. Duke's Phytochemical,2019,5,India,22088
+phytochem,Dr. Duke's Phytochemical,2019,5,Turkey,21652
+phytochem,Dr. Duke's Phytochemical,2019,5,Pakistan,17383
+phytochem,Dr. Duke's Phytochemical,2019,5,Canada,11597
+phytochem,Dr. Duke's Phytochemical,2019,5,Vietnam,11172
+phytochem,Dr. Duke's Phytochemical,2019,5,Australia,5919
+phytochem,Dr. Duke's Phytochemical,2019,5,Indonesia,5552
+phytochem,Dr. Duke's Phytochemical,2019,5,China,5373
